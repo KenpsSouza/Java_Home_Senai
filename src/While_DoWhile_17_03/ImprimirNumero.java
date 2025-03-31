@@ -5,6 +5,7 @@ public class ImprimirNumero {
     public static void main(String[] args) {
     	
     	System.out.println("Olá, apresentação dos números! ");
+    	
         // Variável inicializad a com o valor 1, que será nosso ponto de partida
         int numero = 1;
 
